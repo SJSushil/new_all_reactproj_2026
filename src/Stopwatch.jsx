@@ -15,6 +15,7 @@ import React,{useState} from "react";
             <button onClick={startTime}>Start</button>
             <button>Stop</button>
             <button>Reset</button>
+            <button>Lap</button>
         </div>
     )
 }   
